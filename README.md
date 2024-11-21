@@ -1,2 +1,2 @@
-# html-learning
-MohirDev sahifasining Html kursini tugatdim. Ulugbek Samigjonov
+# HTML-learning
+ MohirDev sahifasining HTML kursini tugatdim
